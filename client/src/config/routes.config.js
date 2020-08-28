@@ -1,0 +1,21 @@
+module.exports = {
+  Home: "/",
+  ResolvedDate: "/resolved/date",
+  Menu: "/menu",
+  Account: "/account",
+  About: "/about",
+  Tutorial: "/tutorial",
+  Dashboard: "/dashboard",
+  Notifications: "/notifications",
+  CreateIssue: "/issue/create",
+  ReadIssue: "/issue/read",
+  ReadIssueId: "/issue/read/id",
+  UpdateIssue: "/issue/update",
+  DeleteIssue: "/issue/delete",
+  Login: "/account/login",
+  Logout: "/account/logout",
+  Register: "/account/register",
+  UpdateUsername: "/account/update/username",
+  UpdatePassword: "/account/update/password",
+  Unregister: "/account/unregister"
+};
